@@ -1,6 +1,5 @@
 - Hi, I’m @Lovakovic
-- I’m interested in learning about wide range of Computer Science topics, but currently I'm focused on neural networks and frontend web frameworks.
-- I'm also interested in learning more about backend frameworks such as Django with Python and genetic algorithms
+- I’m a third-year Program Engineering student at Zagreb University of Applied Sciences.interested in learning about wide range of Computer Science topics, but currently I'm focused on neural networks and full stack web applications
 - Currently I don't have any projects of mine that I'd like to collaborate on as I'm still mostly in the learning phase of most technologies I use. However I am planning on starting one project related to phishing prevention soon, so this might change in future!
 
 <!---
