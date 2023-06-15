@@ -1,9 +1,17 @@
-- Hi, I’m @Lovakovic
-- I’m a third-year Program Engineering student at Zagreb University of Applied Sciences
-- I'm interested in learning about wide range of Computer Science topics, but currently I'm focused on full stack web applications and neural networks
-- Currently I don't have any projects of mine that I'd like to collaborate on as I'm still mostly in the learning phase of most technologies I use.
+# Hello there, I'm Dario! 👋
 
-<!---
-Lovakovic/Lovakovic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm currently a third-year Computer Science student at the Zagreb University of Applied Sciences, planning to continue on to postgraduate studies in Cyber Security and Digital Forensics. 👨‍💻📚
+
+## What I'm Working On 💻🛠️
+
+I'm presently focusing on Java and am involved in developing two fullstack web applications:
+
+    1. A web application built with **MySQL + EAN (Express.js, Angular, and Node.js)**. 🌐🔨
+    2. Another project based on **MySQL, Spring Boot, and Angular**. 🚀📈
+    3. I semi-regularly upload **Bash scripts** that I use and create.
+
+You can find more about these projects in my repositories.
+
+## My Future Plans 🔭🔬
+
+Right not I'm mainly focused on coding in ☕ **Java** ☕ in general, and I'm just diving deeper into its exciting world. I'm also exploring PyTorch and training a few models right now. My interests are quickly moving towards Generative Models, and I'm really excited to dive deep into them! 🧠💡
