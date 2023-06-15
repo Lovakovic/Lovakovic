@@ -6,9 +6,9 @@ I'm currently a third-year Computer Science student at the Zagreb University of 
 
 I'm presently focusing on Java and am involved in developing two fullstack web applications:
 
-    1. A web application built with **MySQL + EAN (Express.js, Angular, and Node.js)**. 🌐🔨
-    2. Another project based on **MySQL, Spring Boot, and Angular**. 🚀📈
-    3. I semi-regularly upload **Bash scripts** that I use and create.
+1. A web application built with **MySQL + EAN (Express.js, Angular, and Node.js)**. 🌐🔨
+2. Another project based on **MySQL, Spring Boot, and Angular**. 🚀📈
+3. I semi-regularly upload **Bash scripts** that I use and create.
 
 You can find more about these projects in my repositories.
 
