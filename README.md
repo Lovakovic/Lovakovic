@@ -1,17 +1,16 @@
 # Hello there, I'm Dario! 👋
 
-I'm currently a third-year Computer Science student at the Zagreb University of Applied Sciences, planning to continue on to postgraduate studies in Cyber Security and Digital Forensics. 👨‍💻📚
+I have recently graduated with a Bachelor's degree in Computer Science from the Zagreb University of Applied Sciences. Now, I'm embarking on my postgraduate journey in Computer Security and Digital Forensics at the same institution. 👨‍💻📚
 
 ## What I'm Working On 💻🛠️
 
-I'm presently focusing on Java and am involved in developing two fullstack web applications:
+I've shifted my focus towards **Node.js** and **Angular** development, and am actively involved in two main projects currently:
 
-1. A web application built with **MySQL + EAN (Express.js, Angular, and Node.js)**. 🌐🔨
-2. Another project based on **MySQL, Spring Boot, and Angular**. 🚀📈
-3. I semi-regularly upload **Bash scripts** that I use and create. 🤖💻
+1. A web application built with **Angular, Node.js (NestJS), and MongoDB**. 🌐🔨
+2. **ScamAlert**, a browser extension aimed at detecting malicious sites and alerting users. This project was initially developed as a part of my "Završni rad" (final project), and now I'm in the process of enhancing it and porting it to Chrome. 🚀🛡️
 
-You can find more about these projects in my repositories.
+Check out the repositories for more details on these exciting projects!
 
 ## My Future Plans 🔭🔬
 
-Right not I'm mainly focused on coding in ☕ **Java** ☕ in general, and I'm just diving deeper into its exciting world. I'm also exploring PyTorch and training a few models right now. My interests are quickly moving towards Generative Models, and I'm really excited to dive deep into them! 🧠💡
+I am eagerly looking forward to delving into some machine learning projects in the near future, with a keen interest in exploring Generative Models further. While I am immersing myself in the world of Node.js and Angular at present, the realms of machine learning and AI continue to pique my curiosity. 🧠💡
