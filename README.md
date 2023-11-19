@@ -1,4 +1,4 @@
-# Hello there, I'm Dario! 👋
+# Hello there, I'm Dario! 
 
 I have recently graduated with a Bachelor's degree in Computer Science from the Zagreb University of Applied Sciences. Now, I'm embarking on my postgraduate journey in Computer Security and Digital Forensics at the same institution. 👨‍💻📚
 
