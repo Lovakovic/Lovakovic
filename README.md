@@ -1,13 +1,24 @@
-# Hello there, I'm Dario!
+# 👋 Hey there, I'm Dario!
 
-I'm a master's degree student in Information Security & Digital Forensics at Zagreb University of Applied Sciences. I also have a Bachelor's degree in Computer Science.
+Crafting autonomous AI agents by day, breaking boundaries between human intent and machine execution by night. Soon-to-be MSc in Information Security & Digital Forensics, but my real passion? Making AI do the heavy lifting in our daily digital lives.
 
-## What I'm Working On 💻
+## 🤖 What I Build
 
-I'm working mostly with **Node.js**, **Angular** and **NestJS**.
+I specialize in creating autonomous AI agents and practical AI-powered tools. My playground:
 
-I'm currently working on **data-pal** - a web application for reducing repetitive everyday activities by using LLMs (whatever comes onto my mind).
+- **axiom**: A high-autonomy CLI agent that turns natural language into system commands. No guardrails, maximum power. My daily driver for when typing commands feels too 2024.
+- **realtime-voice-bot**: Meet Ema, my AI secretary who actually picks up the phone! Call her at `+385 35 894 0006` (she prefers English, but she's working on her Croatian). She'll make sure your message reaches me... unless she's on a coffee break! ☕
+- **data-pal**: The next evolution in AI-enhanced productivity (React + AI = 🚀)
 
-I also have one _finished_ project: **ScamAlert**, a browser extension aimed at detecting malicious sites and alerting users. This project was initially developed as a part of my "Završni rad" (final project), and now I'm in the process of enhancing it and porting it to Chrome. 🚀🛡️
+## 🛠️ Tech Arsenal
 
-Check out the repositories on my profile for more details on these exciting projects!
+- **Backend**: Node.js & NestJS - Because JavaScript on steroids is still king
+- **Frontend**: Angular & React - Double the frameworks, double the fun
+- **AI Integration**: Turning powerful language models into practical tools
+- **Scripting**: Python when I need to move fast and break things (responsibly)
+
+## 💡 What I'm About
+
+I'm all about that sweet spot where AI meets everyday utility. While my academic papers say "Digital Forensics", my heart beats for creating AI agents that make our digital lives smoother. I build tools that bridge the gap between "wouldn't it be cool if..." and "holy shit, it actually works!"
+
+Want to see AI do more than just chat? Give Ema a call or check out my repos - especially if you're into autonomous agents or making AI actually useful in the real world! 🚀
